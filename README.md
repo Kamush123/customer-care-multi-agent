@@ -719,7 +719,8 @@ Based on the design, expected improvements vs. single-agent baseline:
 MIT License - Feel free to use for educational purposes.
 
 ## 👥 Contributors
-[Your Name] - DSA 2020A Lab 2 Assignment
+David Kamau
+dakkamau@usiu.ac.ke
 
 ---
 
