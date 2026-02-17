@@ -1,5 +1,4 @@
 # Customer Care Multi-Agent System - Requirements
-# DSA 2020A Lab 2 Assignment
 
 # Core dependencies
 crewai==0.28.8
